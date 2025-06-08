@@ -18,8 +18,3 @@ PW: Test123!!!
 -> Management Site의 Vue 링크: 
 
 https://github.com/feverishkk/ManagementSite_Vue
-
-
--> Management Site의 Db 링크: 
-
-https://drive.google.com/drive/folders/17KA64riZCEIOKAr9lgoEDaT0dp3XDmtq?usp=sharing
